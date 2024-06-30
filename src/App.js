@@ -1,6 +1,5 @@
 import './App.css';
 import { useEffect } from 'react';
-import { useTelegram } from 'src/hooks/useTelegram';
 const { user, onClose } = useTelegram();
 
 
